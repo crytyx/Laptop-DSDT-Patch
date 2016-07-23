@@ -16,7 +16,7 @@ To add these patches to MaciASL as a repository:
 - select Sources
 - click the [+] button
 - give it a name (eg. "Laptop Patches")
-- type the following URL: http://raw.github.com/RehabMan/Laptop-DSDT-Patch/master
+- type the following URL: http://raw.github.com/crytyx/Laptop-DSDT-Patch/master
 
 
 ### MaciASL and iasl
